@@ -14,7 +14,7 @@ public class Marathon implements Runnable{
 		System.out.println("Speed of a participant : "+speed +" The city is "+city);
 		
 	}
-
+	//mm
 	public int getSpeed() {
 		return speed;
 	}

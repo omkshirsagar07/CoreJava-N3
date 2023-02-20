@@ -11,7 +11,7 @@ public class ThreadLifeCycleDemo {
 		t.yield(); 
 		
 		S.start();
-		
+		//mm
 		t.run();
 		
 		

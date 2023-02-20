@@ -12,7 +12,7 @@ public class SynchronizationDemo
 		}
 	}
 	
-}
+}//nxnsxn
 
 class ThreadOne extends Thread
 {

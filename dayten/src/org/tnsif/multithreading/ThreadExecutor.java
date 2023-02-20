@@ -14,7 +14,7 @@ public class ThreadExecutor {
 		
 		//thread comes to run state
 		p.start();
-		
+		//nn
 		//we can't start() a thread twice it will give expection
 		//p.start()
 		

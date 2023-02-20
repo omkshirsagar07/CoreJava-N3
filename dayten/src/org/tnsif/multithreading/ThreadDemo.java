@@ -12,7 +12,7 @@ public class ThreadDemo {
 		try
 		{
 			T.sleep(1000);
-		}
+		}//mm
 
 		catch(Exception e)
 		

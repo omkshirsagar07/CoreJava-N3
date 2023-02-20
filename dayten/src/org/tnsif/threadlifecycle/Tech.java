@@ -11,7 +11,7 @@ public class Tech extends Thread{
 			System.out.print(i+" ");
 			try
 			{
-				Thread.sleep(00);
+				Thread.sleep(00);//mm
 			}
 			catch(InterruptedException ex)
 			{
